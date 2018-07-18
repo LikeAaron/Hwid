@@ -1,0 +1,2 @@
+# Hwid
+Res0lve
